@@ -3,7 +3,8 @@
 spring:
   profiles : east
 lucky-word: Irish
+
 ---
 spring:
-  profiles : oest
+  profiles : west
 lucky-word: Rabbits´s Foot
