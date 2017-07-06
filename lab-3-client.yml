@@ -1,10 +1,2 @@
-# lab-3-client.yml
----
-spring:
-  profiles : east
-lucky-word: Irish
-
----
 spring:
   profiles : west
-lucky-word: Rabbits´s Foot
