@@ -1,0 +1,9 @@
+# lab-3-client.yml
+---
+spring:
+  profiles : 
+lucky-word: Irish
+---
+spring:
+  profiles
+lucky-word: Rabbits´s Foot
